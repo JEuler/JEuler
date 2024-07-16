@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hi there 🦡
+
+I'm a Mobile and Game Dev enthusiast (and a fan of badgers). Check out some of my apps and games:
+- https://clover-republic.com/
+- https://trifoiltrailblazer.com/
+
+Here are my GitHub stats:
 
 [![JEuler's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEuler)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**JEuler/JEuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And my GitHub Streak:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
